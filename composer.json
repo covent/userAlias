@@ -1,0 +1,24 @@
+{
+    "name": "roundcube/userAlias",
+    "type": "roundcube-plugin",
+    "description": "Plugin allows login with aliases basing on a table stored in a file.",
+    "license": "GNU GPLv3+",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Covent - Alex Lussana",
+            "email": "axluss@gmail.com",
+            "role": "Manager"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "php": ">=1.0",
+    }
+}
+
